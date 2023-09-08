@@ -1,0 +1,9 @@
+baseURL = 'https://djphan.github.io/'
+languageCode = 'en-us'
+title = 'djphan.github.io'
+theme = 'terminal'
+
+[params]
+    contentTypeName = "posts"
+    themeColor = "pink"
+    showMenuItems = 2

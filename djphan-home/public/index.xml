@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>djphan.github.io</title>
+    <link>https://djphan.github.io/</link>
+    <description>Recent content on djphan.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://djphan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There!</title>
+      <link>https://djphan.github.io/posts/intro/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://djphan.github.io/posts/intro/</guid>
+      <description>This is a basic intro to test out the templating in Hugo. #obiwan</description>
+      <content>&lt;p&gt;This is the body of the text. Hi there. #jedirules&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
